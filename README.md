@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://msjahid.github.io/"><strong>Jahid Hasan</strong></a></h1>
-<h3 align="center">&lt; Grumpy, Creative, Lazy Programmer and Trencherman &gt;</h3>
+<h3 align="center">&lt; Learner, Creative, Programmer, and Blogger &gt;</h3>
 <br>
 I am open source enthusiast, the majority of my work is publicly released and dependably will be. I have distinct fascination for Physics, Mathematics, Statistics, Machine learning, Medical Science and Astrophysics.
 <br>
