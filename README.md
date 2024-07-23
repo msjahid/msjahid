@@ -84,7 +84,7 @@
 [![Statistics](https://img.shields.io/badge/-Statistics-8E24AA?style=for-the-badge&logo=statistics&logoColor=white)](https://en.wikipedia.org/wiki/Statistics)
 [![Big Data](https://img.shields.io/badge/-Big_Data-212121?style=for-the-badge&logo=big-data&logoColor=white)](https://en.wikipedia.org/wiki/Big_data)
 [![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-2196F3?style=for-the-badge&logo=linear-algebra&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
-## Blogs posts
+## 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Explain the basic concepts of machine learning with proper graph](https://medium.com/swlh/explain-the-basic-concepts-of-machine-learning-with-proper-graph-e16817cd01a8?source=user_profile---------4----------------------------)
 - [Numpy Array Indexing & Slicing](https://medium.com/@msjahid/numpy-array-indexing-slicing-23b70abb8433)
