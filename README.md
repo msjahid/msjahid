@@ -3,7 +3,6 @@
 </p>
 
 ---
-
 ![visitors](https://pageview.vercel.app/?github_user=msjahid)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/msjahid/open-source-badge/)
 <p align="center">
