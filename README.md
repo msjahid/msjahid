@@ -105,7 +105,7 @@
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=dracula&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
 </p>
-
+<br/>
 <h2 align="center">📍 ριηηєɖ ʀєρo̷ѕιтo̷ʀιєѕ 📍</h2>
 <br>
 <div width="100%" align="center">
