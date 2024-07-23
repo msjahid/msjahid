@@ -25,10 +25,8 @@
   </a>
   
 </p>
-<br>
-I am open source enthusiast, the majority of my work is publicly released and dependably will be. I have distinct fascination for Physics, Mathematics, Statistics, Machine learning, Medical Science and Astrophysics.
-<br>
-<br>
+<hr>
+<h2 align="center"> 👨‍💻 An Easy way to connect/remember me</h2>
 
 - 🔭 I’m currently working as a **Programmer** at [Ludwig Pfeiffer Hoch- und Tiefbau GmbH & Co. KG](https://www.ludwigpfeiffer.com/en/)
 
