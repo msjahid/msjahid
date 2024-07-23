@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=23&pause=1000&multiline=true&width=800&height=70&lines=%F0%9F%91%8B+Hey+there!+I'm+Hasan;Data+Science+%26+Machine+Learning+Enthusiast+;Currently+pursuing+M.Sc+in+Data+Science+at+EU" alt="Typing SVG" style="display: block; margin: 0 auto;" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=23&pause=1000&multiline=true&width=550&height=100&lines=%F0%9F%91%8B+Hey+there!+I'm+Hasan;Data+Science+%26+Machine+Learning+Enthusiast+;Currently+pursuing+M.Sc+in+Data+Science+at+EU" alt="Typing SVG" /></a>
 ---
 ![visitors](https://pageview.vercel.app/?github_user=msjahid)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/msjahid/open-source-badge/)
