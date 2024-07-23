@@ -96,8 +96,8 @@
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=msjahid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=msjahid&layout=compact&hide_border=true&theme=react&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="192px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=msjahid&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=00000000">
+  <img height="192px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=msjahid&layout=compact&hide_border=true&theme=react&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=msjahid&theme=react&hide_border=true&background=FFFFFF00">
   <br>
 </p>
