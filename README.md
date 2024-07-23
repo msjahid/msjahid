@@ -26,22 +26,23 @@
   
 </p>
 <hr>
-<h2 align="center"> 👨‍💻 An Easy way to connect/remember me</h2>
+## 🔧 Skills
 
-- 🔭 I’m currently working as a **Programmer** at [Ludwig Pfeiffer Hoch- und Tiefbau GmbH & Co. KG](https://www.ludwigpfeiffer.com/en/)
-
-- 🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>DevOps.</strong>
-
-- 👯 I’m looking to collaborate on **anything free and open source**.
-
-- 👨‍💻 Most of my projects are available on <a href="https://github.com/msjahid">Github</a>
-
-- 📝 I sometimes write articles on [Medium](https://medium.com/@msjahid)
-
-- 💬 Ask me about **Python, Django, Flask, Machine Learning, Data Science, Linux**.
-
-- 📫 How to reach me **msjahid.ai@gmail.com**
-
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org/)
+[![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/-Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
+[![NLP](https://img.shields.io/badge/-NLP-4db6ac?style=for-the-badge&logo=nlp&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
+[![Data Visualization](https://img.shields.io/badge/-Data_Visualization-6a0dad?style=for-the-badge&logo=data-visualization&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
+[![PowerBi](https://img.shields.io/badge/-PowerBi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Statistics](https://img.shields.io/badge/-Statistics-8E24AA?style=for-the-badge&logo=statistics&logoColor=white)](https://en.wikipedia.org/wiki/Statistics)
+[![Big Data](https://img.shields.io/badge/-Big_Data-212121?style=for-the-badge&logo=big-data&logoColor=white)](https://en.wikipedia.org/wiki/Big_data)
+[![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-2196F3?style=for-the-badge&logo=linear-algebra&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Explain the basic concepts of machine learning with proper graph](https://medium.com/swlh/explain-the-basic-concepts-of-machine-learning-with-proper-graph-e16817cd01a8?source=user_profile---------4----------------------------)
