@@ -79,6 +79,9 @@
 [![GNU](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)](https://www.gnu.org/software/bash/)
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
+[![Statistics](https://img.shields.io/badge/-Statistics-8E24AA?style=for-the-badge&logo=statistics&logoColor=white)](https://en.wikipedia.org/wiki/Statistics)
+[![Big Data](https://img.shields.io/badge/-Big_Data-212121?style=for-the-badge&logo=big-data&logoColor=white)](https://en.wikipedia.org/wiki/Big_data)
+[![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-2196F3?style=for-the-badge&logo=linear-algebra&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
 ## Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [Explain the basic concepts of machine learning with proper graph](https://medium.com/swlh/explain-the-basic-concepts-of-machine-learning-with-proper-graph-e16817cd01a8?source=user_profile---------4----------------------------)
