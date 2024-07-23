@@ -111,10 +111,10 @@
 </p>
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h2 align="center">📍 Pinned Repositories 📍</h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/zumrudu-anka/Algorithms" title="Algorithms"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=Algorithms&theme=dracula&border_color=bd93f9&border_radius=10"></a><a align="right" href="https://github.com/zumrudu-anka/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=dracula&border_color=bd93f9&border_radius=10"></a>
+  <a align="left" href="https://github.com/msjahid/Data-Science-Projects" title="Data Science Projects"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data Science Projects&theme=dracula&border_color=bd93f9&border_radius=10"></a><a align="right" href="https://github.com/msjahid/DataStructures" title="Data Structures"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=zumrudu-anka&repo=DataStructures&theme=dracula&border_color=bd93f9&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
