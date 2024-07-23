@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=23&pause=1000&width=500&lines=%F0%9F%91%8B+Hey+there!+I'm+Hasan+;Data+Science+%26+Machine+Learning+Enthusiast;Currently+pursuing+M.Sc+in+Data+Science+at+EUumps+nightly+above+wizard" alt="Typing SVG">
 </p>
+
 ---
 
 ![visitors](https://pageview.vercel.app/?github_user=msjahid)
