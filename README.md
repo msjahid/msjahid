@@ -9,7 +9,7 @@
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" />
   </a>
 </p>
-<p align="center" font-size="20">
+<p align="center" font-size="40">
   <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in <code>predictive analytics</code>, including <code>machine learning</code>, <code>sentiment analysis</code>, <code>statistical modeling</code>, and <code>data mining</code> techniques, to develop marketing strategies using <code>Python</code>, <code>SQL</code>, <code>Excel</code>, <code>Tableau</code> and various popular libraries such as <code>Numpy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>Seaborn</code>, and <code>Scikit Learn</code> etc. I have extensive experience working with <code>natural language processing</code>, <code>large-scale datasets</code>, <code>big data techniques</code>, <code>predictive model building</code>, and <code>machine learning web API</code> implementation.
   </samp>
   <br> <br>
