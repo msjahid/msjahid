@@ -1,6 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&width=435&lines=%F0%9F%91%8B+Hey+there!+I'm+Hasan;Data+Science+%26+Machine+Learning+Enthusiast;Currently+pursuing+M.Sc+in+Data+Science+at+EU)](https://git.io/typing-svg)
-### ---
-<h3 align="center">&lt; Learner, Creative, Programmer, and Blogger &gt;</h3>
+---
+<p align="center">
+  <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in predictive analytics, including machine learning, sentiment analysis, statistical modeling, and data mining techniques, to develop marketing strategies using Python, SQL, Excel, Tableau and various popular libraries such as Numpy, Pandas, Matplotlib, Seaborn, and Scikit Learn etc. I also have experience with natural language processing and word embedding. I have extensive experience working with large-scale datasets, big data techniques, predictive model building, and machine learning web API implementation. I developed REST API for machine learning models using Django REST Framework and PostgreSQL.
+  </samp>
+  <br> <br>
+  <img src="https://img.shields.io/badge/Tester-FF9522?style=for-the-badge&logo=tester&logoColor=white" alt="https://github.com/gauravkhuraana" />
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="https://github.com/gauravkhuraana" />
+    <img src="https://img.shields.io/badge/Youtuber-FF9522?style=for-the-badge&logo=youtube&logoColor=white" alt="https://github.com/gauravkhuraana" />
+
+  
+</p>
 <br>
 I am open source enthusiast, the majority of my work is publicly released and dependably will be. I have distinct fascination for Physics, Mathematics, Statistics, Machine learning, Medical Science and Astrophysics.
 <br>
