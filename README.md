@@ -96,7 +96,7 @@
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <h3>🔥 Streak Stats</h3>
-<img alt="msjahid's streak" src="https://github-readme-streak-stats-9m8ugfa77-msjahid.vercel.app/?user=msjahid&theme=react&hide_border=true"/>
+<img alt="msjahid's streak" src="https://msjahid-github-readme-streak-stats-9m8ugfa77-msjahid.vercel.app/?user=msjahid&theme=react&hide_border=true"/>
 
  <h3>💻 GitHub Profile Stats</h3>
 
