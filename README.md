@@ -108,7 +108,7 @@
 <hr>
 
 <h2 align="center" color="bd93f9">📍 ριηηєɖ ʀєρo̷ѕιтo̷ʀιєѕ 📍</h2>
-<h2 align="center" style="color: #bd93f9;">📍 Zero 📍</h2>
+<h2 align="center" style="color: #bd93f9;">Zero </h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/msjahid/Data-Science-Projects" title="Data Science Projects"><img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&theme=dracula&border_color=bd93f9&border_radius=10"></a><a align="right" href="https://github.com/msjahid/Machine-Learning-Projects" title="Machine Learning Projects"><img align="right" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Machine-Learning-Project&theme=dracula&border_color=bd93f9&border_radius=10"></a>
