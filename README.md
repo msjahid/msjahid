@@ -4,30 +4,11 @@
   <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in predictive analytics, including machine learning, sentiment analysis, statistical modeling, and data mining techniques, to develop marketing strategies using Python, SQL, Excel, Tableau and various popular libraries such as Numpy, Pandas, Matplotlib, Seaborn, and Scikit Learn etc. I also have experience with natural language processing and word embedding. I have extensive experience working with large-scale datasets, big data techniques, predictive model building, and machine learning web API implementation.
   </samp>
   <br> <br>
-<a href="https://www.instagram.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@rzashakeri">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitter.com/rzashakeri/">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/rezshakeri/">
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/barnamenevisiadmin/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gitlab.com/rzashakeri">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
-
+<img src="https://img.shields.io/badge/Email-zainfaisal280%40gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:msjahid@gmail.com" />  
+  <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="https://www.kaggle.com/msjahid" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/msjahid/" />
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@msjahid" />
+        <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="https://msjahid.github.io/" />
   
 </p>
 <br>
