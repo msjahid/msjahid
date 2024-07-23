@@ -111,7 +111,7 @@
 <br>
 <div width="100%" align="center">
   <a href="https://github.com/msjahid/Data-Science-Projects" title="Data Science Projects">
-    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&theme=dracula&border_color=bd93f9&border_radius=10" />
+    <img height="400" width="900" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&theme=dracula&border_color=bd93f9&border_radius=10" />
   </a>
   <a href="https://github.com/msjahid/Machine-Learning-Project" title="Machine Learning Project">
     <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Machine-Learning-Project&theme=dracula&border_color=bd93f9&border_radius=10" />
