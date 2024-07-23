@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&size=23&pause=1000&width=550&height=70&lines=%F0%9F%91%8B+Hey+there!+I'm+Hasan;Data+Science+%26+Machine+Learning+Enthusiast+;Currently+pursuing+M.Sc+in+Data+Science+at+EU)](https://git.io/typing-svg)
 ---
-![visitors](https://pageview.vercel.app/?github_user=mopig)
+![visitors](https://pageview.vercel.app/?github_user=msjahid)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/msjahid/open-source-badge/)
 <p align="center">
   <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in <code>predictive analytics</code>, including <code>machine learning</code>, <code>sentiment analysis</code>, <code>statistical modeling</code>, and <code>data mining</code> techniques, to develop marketing strategies using <code>Python</code>, <code>SQL</code>, <code>Excel</code>, <code>Tableau</code> and various popular libraries such as <code>Numpy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>Seaborn</code>, and <code>Scikit Learn</code> etc. I have extensive experience working with <code>natural language processing</code>, <code>large-scale datasets</code>, <code>big data techniques</code>, <code>predictive model building</code>, and <code>machine learning web API</code> implementation.
