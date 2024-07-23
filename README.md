@@ -29,19 +29,24 @@
 
 ## 🔧 Skills
 
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
+[![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://cplusplus.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/en/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.javascript.com/)
+[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.org/)
 [![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/-Seaborn-388E3C?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org/)
 [![Scikit Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)](https://en.wikipedia.org/wiki/Machine_learning)
+[![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Deep Learning](https://img.shields.io/badge/-Deep_Learning-FF6F00?style=for-the-badge&logo=deep-learning&logoColor=white)](https://en.wikipedia.org/wiki/Deep_learning)
-[![NLP](https://img.shields.io/badge/-NLP-4db6ac?style=for-the-badge&logo=nlp&logoColor=white)](https://en.wikipedia.org/wiki/Natural_language_processing)
-[![Data Visualization](https://img.shields.io/badge/-Data_Visualization-6a0dad?style=for-the-badge&logo=data-visualization&logoColor=white)](https://en.wikipedia.org/wiki/Data_visualization)
+[![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![PowerBi](https://img.shields.io/badge/-PowerBi-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
-[![Statistics](https://img.shields.io/badge/-Statistics-8E24AA?style=for-the-badge&logo=statistics&logoColor=white)](https://en.wikipedia.org/wiki/Statistics)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/)
 [![Big Data](https://img.shields.io/badge/-Big_Data-212121?style=for-the-badge&logo=big-data&logoColor=white)](https://en.wikipedia.org/wiki/Big_data)
 [![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-2196F3?style=for-the-badge&logo=linear-algebra&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
 ## Blogs posts
