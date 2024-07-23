@@ -100,5 +100,6 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=msjahid&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjahid&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
   <br/>
