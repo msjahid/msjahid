@@ -18,7 +18,7 @@
   </a>
   
   <a href="https://kaggle.com/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" alt="kaggle" />
   </a>
   
   <a href="https://www.linkedin.com/in/msjahid/" target="_blank">
