@@ -96,7 +96,7 @@
   <h2 align="center">⚡ Current Stats ⚡</h2>
 <br>
 <h3>🔥 Streak Stats</h3>
-<img width=420 src="https://streak-stats.demolab.com/?user=msjahid&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img alt="msjahid's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=react&hide_border=true"/>
 
 <h3>💻 GitHub Profile Stats</h3>
 <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjahid&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
