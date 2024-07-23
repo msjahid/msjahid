@@ -37,7 +37,7 @@
 <hr>
 
 <br/>
-  <h2 align="center"></> Skills </></h2>
+  <h2 align="center">⚒ Skills ⚒</h2>
 <br>
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
