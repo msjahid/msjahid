@@ -4,27 +4,25 @@
   <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in predictive analytics, including machine learning, sentiment analysis, statistical modeling, and data mining techniques, to develop marketing strategies using Python, SQL, Excel, Tableau and various popular libraries such as Numpy, Pandas, Matplotlib, Seaborn, and Scikit Learn etc. I also have experience with natural language processing and word embedding. I have extensive experience working with large-scale datasets, big data techniques, predictive model building, and machine learning web API implementation.
   </samp>
   <br> <br>
-  <a href="mailto:msjahid.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="href="mailto:msjahid.ai@gmail.com"/>
+  <a href="mailto:msjahid.ai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="href="mailto:msjahid.ai@gmail.com"/>
   </a>
   
-  <a href="https://github.com/msjahid" style="color: inherit; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&link=https://github.com/msjahid" alt="GitHub badge" />
+  <a href="https://kaggle.com/msjahid" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" alt="GitHub badge" />
   </a>
   
-  <a href="https://www.linkedin.com/in/msjahid/" style="color: inherit; text-decoration: none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/msjahid/" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/msjahid/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
   </a>
   
-  <a href="https://medium.com/@msjahid" style="color: inherit; text-decoration: none;">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/" alt="Medium" /> 
+  <a href="https://medium.com/@msjahid" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/" target="_blank" alt="Medium" /> 
   </a>
   
-  <a href="https://msjahid.github.io/" style="color: inherit; text-decoration: none;">
- <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="msjahid" /> 
+  <a href="https://msjahid.github.io/" target="_blank">
+ <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" alt="msjahid" /> 
   </a>
- 
- <img src="https://komarev.com/ghpvc/?username=msjahid&color=18A558&label=Profile+views" alt="Profile Views" />
   
 </p>
 <br>
