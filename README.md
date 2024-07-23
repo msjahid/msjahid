@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://msjahid.github.io/"><strong>Jahid Hasan</strong></a></h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Righteous&pause=1000&width=435&lines=%F0%9F%91%8B+Hey+there!+I'm+Hasan;Data+Science+%26+Machine+Learning+Enthusiast;Currently+pursuing+M.Sc+in+Data+Science+at+EU)](https://git.io/typing-svg)
 <h3 align="center">&lt; Learner, Creative, Programmer, and Blogger &gt;</h3>
 <br>
 I am open source enthusiast, the majority of my work is publicly released and dependably will be. I have distinct fascination for Physics, Mathematics, Statistics, Machine learning, Medical Science and Astrophysics.
