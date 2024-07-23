@@ -95,7 +95,9 @@
 [![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-2196F3?style=for-the-badge&logo=linear-algebra&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
 
 <br/>
-  <h2 align="center" style="color:Tomato;">⚡ ƈʊʀʀєηт ѕтαтѕ ⚡</h2>
+  <div align="center">
+  <h2 style="color:Tomato;">⚡ ƈʊʀʀєηт ѕтαтѕ ⚡</h2>
+</div>
 <br>
 <p align="center">
   <img height="192px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=msjahid&show_icons=true&count_private=true&rank_icon=github&theme=dracula&hide_border=true&bg_color=00000000">
