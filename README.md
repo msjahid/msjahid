@@ -97,5 +97,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/msjahid/notebook)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/subinium/competition)
 
