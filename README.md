@@ -110,13 +110,8 @@
 <h2 align="center">📍 Pinned Repositories 📍</h2>
 <br>
 <div width="100%" align="center">
-  <a href="https://github.com/msjahid/Data-Science-Projects" title="Data Science Projects">
-    <img height="400" width="900" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&theme=dracula&border_color=bd93f9&border_radius=10" />
-  </a>
-  <a href="https://github.com/msjahid/Machine-Learning-Project" title="Machine Learning Project">
-    <img height="150" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Machine-Learning-Project&theme=dracula&border_color=bd93f9&border_radius=10" />
-  </a>
-</div>
+  <a align="left" href="https://github.com/msjahid/Data-Science-Projects" title="Data Science Projects"><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&theme=dracula&border_color=bd93f9&border_radius=10"></a><a align="right" href="https://github.com/msjahid/Machine-Learning-Project" title="Machine Learning Project"><img align="right" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Machine-Learning-Project&theme=dracula&border_color=bd93f9&border_radius=10"></a>
+<br/><br/><br/><br/><br/><br/>
 
 
 <p align="center">
