@@ -4,9 +4,29 @@
   <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in predictive analytics, including machine learning, sentiment analysis, statistical modeling, and data mining techniques, to develop marketing strategies using Python, SQL, Excel, Tableau and various popular libraries such as Numpy, Pandas, Matplotlib, Seaborn, and Scikit Learn etc. I also have experience with natural language processing and word embedding. I have extensive experience working with large-scale datasets, big data techniques, predictive model building, and machine learning web API implementation.
   </samp>
   <br> <br>
-  <img src="https://img.shields.io/badge/Tester-FF9522?style=for-the-badge&logo=tester&logoColor=white" alt="https://github.com/gauravkhuraana" />
-  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="https://github.com/gauravkhuraana" />
-    <img src="https://img.shields.io/badge/Youtuber-FF9522?style=for-the-badge&logo=youtube&logoColor=white" alt="https://github.com/gauravkhuraana" />
+<a href="https://www.instagram.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@rzashakeri">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitter.com/rzashakeri/">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/rezshakeri/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/barnamenevisiadmin/">
+<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gitlab.com/rzashakeri">
+<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+</a>
 
   
 </p>
