@@ -110,7 +110,7 @@
 <h2 align="center">📍 Pinned Repositories 📍</h2>
 <br>
 <div width="100%" align="center">
-  <a align="right" href="https://github.com/msjahid/Data-Science-Projects" title="Data Science Projects"><img align="right" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&theme=dracula&border_color=bd93f9&border_radius=10"></a>
+  <a align="left" href="https://github.com/msjahid/Data-Science-Projects" title="Data Science Projects"><img align="left" height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&theme=dracula&border_color=bd93f9&border_radius=10"></a>
 <br/><br/><br/><br/><br/><br/>
 
 <p align="center">
