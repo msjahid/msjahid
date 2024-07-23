@@ -105,10 +105,6 @@
 </p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
 <hr>
 
 <h2 align="center">📍 Pinned Repositories 📍</h2>
@@ -121,3 +117,7 @@
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
