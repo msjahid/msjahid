@@ -103,7 +103,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=msjahid&theme=dracula&hide_border=true&background=FFFFFF00">
   <br>
 </p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=dracula&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
 </p>
 <hr>
 
