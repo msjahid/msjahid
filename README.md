@@ -97,3 +97,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
