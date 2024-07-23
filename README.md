@@ -4,7 +4,7 @@
   <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in predictive analytics, including machine learning, sentiment analysis, statistical modeling, and data mining techniques, to develop marketing strategies using Python, SQL, Excel, Tableau and various popular libraries such as Numpy, Pandas, Matplotlib, Seaborn, and Scikit Learn etc. I also have experience with natural language processing and word embedding. I have extensive experience working with large-scale datasets, big data techniques, predictive model building, and machine learning web API implementation.
   </samp>
   <br> <br>
-<img src="https://img.shields.io/badge/Email-zainfaisal280%40gmail.com-green?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:msjahid@gmail.com" />  
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mailto:msjahid@gmail.com" />
   <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="https://www.kaggle.com/msjahid" />
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/msjahid/" />
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="https://medium.com/@msjahid" />
