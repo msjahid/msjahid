@@ -95,7 +95,7 @@
 [![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-2196F3?style=for-the-badge&logo=linear-algebra&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
 
 <br/>
-  <h2 align="center">⚡ ƈʊʀʀєηт ѕтαтѕ ⚡</h2>
+  <h2 align="center" style="color: #bd93f9;">⚡ ƈʊʀʀєηт ѕтαтѕ ⚡</h2>
 <br>
 <p align="center">
   <img height="192px" width="auto" src ="https://github-readme-stats.vercel.app/api?username=msjahid&show_icons=true&count_private=true&rank_icon=github&theme=dracula&hide_border=true&bg_color=00000000">
@@ -108,7 +108,6 @@
 <hr>
 
 <h2 align="center" color="bd93f9">📍 ριηηєɖ ʀєρo̷ѕιтo̷ʀιєѕ 📍</h2>
-<h2 align="center" style="color: #bd93f9;">Zero </h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/msjahid/Data-Science-Projects" title="Data Science Projects"><img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&theme=dracula&border_color=bd93f9&border_radius=10"></a><a align="right" href="https://github.com/msjahid/Machine-Learning-Projects" title="Machine Learning Projects"><img align="right" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Machine-Learning-Project&theme=dracula&border_color=bd93f9&border_radius=10"></a>
