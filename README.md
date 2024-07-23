@@ -99,7 +99,8 @@
 <img alt="msjahid's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=DenverCoder1&theme=react&hide_border=true"/>
 
 <h3>💻 GitHub Profile Stats</h3>
-<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjahid&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<img alt="msjahid's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=msjahid&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<img alt="msjahid's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=msjahid&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 <div align=center>
   
