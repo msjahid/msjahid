@@ -86,7 +86,7 @@
 [![Linear Algebra](https://img.shields.io/badge/-Linear_Algebra-2196F3?style=for-the-badge&logo=linear-algebra&logoColor=white)](https://en.wikipedia.org/wiki/Linear_algebra)
 ## 📝 Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Explain the basic concepts of machine learning with proper graph](https://medium.com/swlh/explain-the-basic-concepts-of-machine-learning-with-proper-graph-e16817cd01a8?source=user_profile---------4----------------------------)
+- [𝕰𝖝𝖕𝖑𝖆𝖎𝖓 𝖙𝖍𝖊 𝖇𝖆𝖘𝖎𝖈 𝖈𝖔𝖓𝖈𝖊𝖕𝖙𝖘 𝖔𝖋 𝖒𝖆𝖈𝖍𝖎𝖓𝖊 𝖑𝖊𝖆𝖗𝖓𝖎𝖓𝖌 𝖜𝖎𝖙𝖍 𝖕𝖗𝖔𝖕𝖊𝖗 𝖌𝖗𝖆𝖕𝖍](https://medium.com/swlh/explain-the-basic-concepts-of-machine-learning-with-proper-graph-e16817cd01a8?source=user_profile---------4----------------------------)
 - [Numpy Array Indexing & Slicing](https://medium.com/@msjahid/numpy-array-indexing-slicing-23b70abb8433)
 - [Basic Numpy method for Data Science](https://medium.com/@msjahid/basic-numpy-method-for-data-science-4f2412975a67)
 - [Getting Started With Pandas for Data Science](https://medium.com/@msjahid/getting-started-with-pandas-for-data-science-4fe84cee7037)
