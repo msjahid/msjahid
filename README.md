@@ -32,6 +32,10 @@
   <a href="https://msjahid.github.io/" target="_blank">
  <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" alt="msjahid" /> 
   </a>
+
+  <a href="https:/x.com/msjahid" target="_blank">
+ <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" alt="msjahid" /> 
+  </a>
   
 </p>
 <hr>
