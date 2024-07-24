@@ -36,6 +36,10 @@
   <a href="https:/x.com/msjahid" target="_blank">
  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" alt="msjahid" /> 
   </a>
+
+  <a href="https://stackoverflow.com/users/7288932/msjahid" target="_blank">
+ <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" alt="msjahid" /> 
+  </a>
   
 </p>
 <hr>
