@@ -111,7 +111,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=msjahid&theme=transparent&hide_border=true">
   <br>
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=github-light&bg_color=FFFFFF00&color=000000&line=000000&point=333333&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=dracula&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
 </p>
 <br/>
 
