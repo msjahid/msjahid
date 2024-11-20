@@ -106,9 +106,9 @@
 <h2 align="center">⚡ ƈʊʀʀєηт ѕтαтѕ ⚡</h2>
 <br>
 <p align="center">
-  <img height="192px" width="auto" src="https://github-readme-stats.vercel.app/api?username=msjahid&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true">
-  <img height="192px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjahid&layout=compact&hide_border=true&theme=transparent&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=msjahid&theme=transparent&hide_border=true">
+  <img height="192px" width="auto" src="https://github-readme-stats.vercel.app/api?username=msjahid&show_icons=true&count_private=true&rank_icon=github&theme=dracula&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&text_color=FFFFFF">
+  <img height="192px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjahid&layout=compact&hide_border=true&theme=dracula&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=1F222E&title_color=F8D866&text_color=FFFFFF">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=msjahid&theme=dracula&hide_border=true&background=1F222E&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakNum=F8D866&currStreakLabel=F8D866&sideNums=F8D866&dates=FFFFFF">
   <br>
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=msjahid&theme=dracula&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
