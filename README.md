@@ -240,13 +240,8 @@
 
 <div align="center">
 
-<a href="https://github.com/msjahid/Data-Science-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&bg_color=191724&title_color=eb6f92&text_color=e0def4&icon_color=9ccfd8&border_color=26233a&border_radius=10" />
-</a>
-&nbsp;
-<a href="https://github.com/msjahid/Machine-Learning-Projects">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Machine-Learning-Projects&bg_color=191724&title_color=eb6f92&text_color=e0def4&icon_color=9ccfd8&border_color=26233a&border_radius=10" />
-</a>
+<a href="https://github.com/msjahid/Data-Science-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&bg_color=191724&title_color=eb6f92&text_color=e0def4&icon_color=9ccfd8&border_color=26233a&border_radius=10"/></a>&nbsp;
+<a href="https://github.com/msjahid/Machine-Learning-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Machine-Learning-Projects&bg_color=191724&title_color=eb6f92&text_color=e0def4&icon_color=9ccfd8&border_color=26233a&border_radius=10"/></a>
 
 </div>
 
