@@ -36,7 +36,9 @@
 <!--                   SKILLS                               -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">&nbsp; Technical Skills
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">&nbsp; Technical Skills
+</h2>
 
 ### 🌸 Programming Languages
 ![Python](https://img.shields.io/badge/Python-eb6f92?style=for-the-badge&logo=python&logoColor=191724)
