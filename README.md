@@ -176,12 +176,13 @@
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-eb6f92?style=for-the-badge&logo=git&logoColor=191724)
 ![GitHub](https://img.shields.io/badge/GitHub-9ccfd8?style=for-the-badge&logo=github&logoColor=191724)
+![Sublime Text](https://img.shields.io/badge/Sublime_Text-eb6f92?style=for-the-badge&logo=sublimetext&logoColor=191724)
 ![Jupyter](https://img.shields.io/badge/Jupyter-f6c177?style=for-the-badge&logo=jupyter&logoColor=191724)
 ![Linux](https://img.shields.io/badge/Linux-c4a7e7?style=for-the-badge&logo=linux&logoColor=191724)
-![VS Code](https://img.shields.io/badge/VS_Code-eb6f92?style=for-the-badge&logo=visualstudiocode&logoColor=191724)
-![JetBrains](https://img.shields.io/badge/JetBrains-eb6f92?style=for-the-badge&logo=JetBrains&logoColor=191724)
+![VS Code](https://img.shields.io/badge/VS_Code-eb6f92?style=for-the-badge&logo=v&logoColor=191724)
 ![Postman](https://img.shields.io/badge/Postman-9ccfd8?style=for-the-badge&logo=postman&logoColor=191724)
 ![Swagger](https://img.shields.io/badge/Swagger-f6c177?style=for-the-badge&logo=swagger&logoColor=191724)
+![JetBrains](https://img.shields.io/badge/JetBrains-eb6f92?style=for-the-badge&logo=JetBrains&logoColor=191724)
 ![Neovim](https://img.shields.io/badge/Neovim-c4a7e7?style=for-the-badge&logo=neovim&logoColor=191724)
 
 ---
