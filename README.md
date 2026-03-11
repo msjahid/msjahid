@@ -40,7 +40,7 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28px">&nbsp; Technical Skills
 </h2>
 
-### 🌸 Programming Languages
+### 👨🏻‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-eb6f92?style=for-the-badge&logo=python&logoColor=191724)
 ![R](https://img.shields.io/badge/R-9ccfd8?style=for-the-badge&logo=r&logoColor=191724)
 ![SQL](https://img.shields.io/badge/SQL-f6c177?style=for-the-badge&logo=mysql&logoColor=191724)
