@@ -33,32 +33,13 @@
   <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in <code>predictive analytics</code>, including <code>machine learning</code>, <code>sentiment analysis</code>, <code>statistical modeling</code>, and <code>data mining</code> techniques, to develop marketing strategies using <code>Python</code>, <code>SQL</code>, <code>Excel</code>, <code>Tableau</code> and various popular libraries such as <code>Numpy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>Seaborn</code>, and <code>Scikit Learn</code> etc. I have extensive experience working with <code>natural language processing</code>, <code>large-scale datasets</code>, <code>big data techniques</code>, <code>predictive model building</code>, and <code>machine learning web API</code> implementation.
   </samp>
   <br> <br>
-  <a href="mailto:msjahid.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://kaggle.com/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" alt="kaggle" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/msjahid/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
-  </a>
-  
-  <a href="https://medium.com/@msjahid" target="_blank">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/" target="_blank" alt="Medium" /> 
-  </a>
-  
-  <a href="https://msjahid.github.io/" target="_blank">
- <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" alt="msjahid" /> 
-  </a>
-
-  <a href="https:/x.com/msjahid" target="_blank">
- <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" alt="msjahid" /> 
-  </a>
-
-  <a href="https://stackoverflow.com/users/7288932/msjahid" target="_blank">
- <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" alt="msjahid" /> 
-  </a>
+<a href="mailto:msjahid.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://kaggle.com/msjahid" target="_blank"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/msjahid/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@msjahid" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://msjahid.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=about.me&logoColor=white"/></a>
+<a href="https://x.com/msjahid" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/7288932/msjahid" target="_blank"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 
 <br>
 
