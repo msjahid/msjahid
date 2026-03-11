@@ -110,11 +110,11 @@
 ---
 
 ### 📈 Data Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-eb6f92?style=for-the-badge&logo=python&logoColor=191724)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-eb6f92?style=for-the-badge&logo=inkscape&logoColor=191724)
 ![Seaborn](https://img.shields.io/badge/Seaborn-9ccfd8?style=for-the-badge&logo=python&logoColor=191724)
 ![Plotly](https://img.shields.io/badge/Plotly-f6c177?style=for-the-badge&logo=plotly&logoColor=191724)
-![ggplot2](https://img.shields.io/badge/ggplot2-c4a7e7?style=for-the-badge&logo=r&logoColor=191724)
-![Tableau](https://img.shields.io/badge/Tableau-eb6f92?style=for-the-badge&logo=tableau&logoColor=191724)
+![ggplot2](https://img.shields.io/badge/ggplot2-c4a7e7?style=for-the-badge&logo=posit&logoColor=191724)
+![Tableau](https://img.shields.io/badge/Tableau-eb6f92?style=for-the-badge&logo=looker&logoColor=191724)
 ![Power BI](https://img.shields.io/badge/Power_BI-9ccfd8?style=for-the-badge&logo=powerbi&logoColor=191724)
 ![Streamlit](https://img.shields.io/badge/Streamlit-f6c177?style=for-the-badge&logo=streamlit&logoColor=191724)
 ![Dash](https://img.shields.io/badge/Dash-c4a7e7?style=for-the-badge&logo=plotly&logoColor=191724)
