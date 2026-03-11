@@ -25,7 +25,9 @@
 <!--                   ABOUT ME                             -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">&nbsp; About Me
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">&nbsp; About Me
+</h2>
 
 ```python
 class JahidHasan:
