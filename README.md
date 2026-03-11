@@ -71,15 +71,15 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-eb6f92?style=for-the-badge&logo=tensorflow&logoColor=191724)
 ![PyTorch](https://img.shields.io/badge/PyTorch-9ccfd8?style=for-the-badge&logo=pytorch&logoColor=191724)
 ![Keras](https://img.shields.io/badge/Keras-f6c177?style=for-the-badge&logo=keras&logoColor=191724)
-![CNNs](https://img.shields.io/badge/CNNs-c4a7e7?style=for-the-badge&logo=python&logoColor=191724)
-![RNNs](https://img.shields.io/badge/RNNs-eb6f92?style=for-the-badge&logo=python&logoColor=191724)
-![LSTMs](https://img.shields.io/badge/LSTMs-9ccfd8?style=for-the-badge&logo=python&logoColor=191724)
+![CNNs](https://img.shields.io/badge/CNNs-c4a7e7?style=for-the-badge&logo=nvidia&logoColor=191724)
+![RNNs](https://img.shields.io/badge/RNNs-eb6f92?style=for-the-badge&logo=apacheairflow&logoColor=191724)
+![LSTMs](https://img.shields.io/badge/LSTMs-9ccfd8?style=for-the-badge&logo=timescale&logoColor=191724)
 ![Transformers](https://img.shields.io/badge/Transformers-f6c177?style=for-the-badge&logo=huggingface&logoColor=191724)
-![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-c4a7e7?style=for-the-badge&logo=python&logoColor=191724)
+![Transfer Learning](https://img.shields.io/badge/Transfer_Learning-c4a7e7?style=for-the-badge&logo=precommit&logoColor=191724)
 ![OpenCV](https://img.shields.io/badge/OpenCV-eb6f92?style=for-the-badge&logo=opencv&logoColor=191724)
-![Image Processing](https://img.shields.io/badge/Image_Processing-9ccfd8?style=for-the-badge&logo=python&logoColor=191724)
-![Object Detection](https://img.shields.io/badge/Object_Detection-f6c177?style=for-the-badge&logo=python&logoColor=191724)
-![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-c4a7e7?style=for-the-badge&logo=python&logoColor=191724)
+![Image Processing](https://img.shields.io/badge/Image_Processing-9ccfd8?style=for-the-badge&logo=imagemagick&logoColor=191724)
+![Object Detection](https://img.shields.io/badge/Object_Detection-f6c177?style=for-the-badge&logo=radar&logoColor=191724)
+![Data Augmentation](https://img.shields.io/badge/Data_Augmentation-c4a7e7?style=for-the-badge&logo=dvc&logoColor=191724)
 
 ---
 
