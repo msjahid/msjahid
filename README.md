@@ -236,9 +236,7 @@
 
 <br>
 
-### 📍 Pinned Repositories
-
-<h2 align="center">📍 Pinned Repositories</h3>
+<h3 align="center">📍 Pinned Repositories</h3>
 
 <div align="center">
 
