@@ -236,7 +236,7 @@
 
 <br>
 
-<h3 align="center">📍 Pinned Repositories</h3>
+<h2 align="center">📍 Pinned Repositories</h2>
 
 <div align="center">
 
