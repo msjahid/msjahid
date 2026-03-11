@@ -124,10 +124,10 @@
 ---
 
 ### 📐 Statistical Analysis
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-c4a7e7?style=for-the-badge&logo=python&logoColor=191724)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-c4a7e7?style=for-the-badge&logo=testinglibrary&logoColor=191724)
 ![A/B Testing](https://img.shields.io/badge/A%2FB_Testing-eb6f92?style=for-the-badge&logo=python&logoColor=191724)
 ![Regression Analysis](https://img.shields.io/badge/Regression_Analysis-9ccfd8?style=for-the-badge&logo=python&logoColor=191724)
-![Time Series](https://img.shields.io/badge/Time_Series_Analysis-f6c177?style=for-the-badge&logo=python&logoColor=191724)
+![Time Series](https://img.shields.io/badge/Time_Series_Analysis-f6c177?style=for-the-badge&logo=timescale&logoColor=191724)
 ![Experimental Design](https://img.shields.io/badge/Experimental_Design-c4a7e7?style=for-the-badge&logo=python&logoColor=191724)
 ![ANOVA](https://img.shields.io/badge/ANOVA-eb6f92?style=for-the-badge&logo=python&logoColor=191724)
 ![Correlation Analysis](https://img.shields.io/badge/Correlation_Analysis-9ccfd8?style=for-the-badge&logo=python&logoColor=191724)
