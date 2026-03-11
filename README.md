@@ -289,12 +289,6 @@
   <a href="https://msjahid.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/WordPress-9ccfd8?style=for-the-badge&logo=wordpress&logoColor=191724"/></a>
 </p>
 
-<br>
-
-| 📧 Email | 📍 Location | 🌐 Portfolio | 📞 Phone |
-|:---:|:---:|:---:|:---:|
-| msjahid.ai@gmail.com | Maryland, USA | [msjahid.github.io](https://msjahid.github.io/) | +1 (571) 576-4481 |
-
 </div>
 
 <br>
@@ -309,6 +303,5 @@
   <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=15&pause=1000&color=6E6A86&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile+🌸;Always+open+to+collaborating+%26+learning;Let's+connect+and+build+something+amazing!" alt="Footer" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=eb6f92&reversal=false&section=footer" />
 
 </div>
