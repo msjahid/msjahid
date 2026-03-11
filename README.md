@@ -90,7 +90,7 @@
 ![Word2Vec](https://img.shields.io/badge/Word2Vec-c4a7e7?style=for-the-badge&logo=googlecolab&logoColor=191724)
 ![GloVe](https://img.shields.io/badge/GloVe-eb6f92?style=for-the-badge&logo=academia&logoColor=191724)
 ![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Analysis-9ccfd8?style=for-the-badge&logo=googlemessages&logoColor=191724)
-![Text Classification](https://img.shields.io/badge/Text_Classification-f6c177?style=for-the-badge&logo=labelstudio&logoColor=191724)
+![Text Classification](https://img.shields.io/badge/Text_Classification-f6c177?style=for-the-badge&logo=T=191724)
 ![NER](https://img.shields.io/badge/NER-c4a7e7?style=for-the-badge&logo=googletranslate&logoColor=191724)
 ![Tokenization](https://img.shields.io/badge/Tokenization-eb6f92?style=for-the-badge&logo=jsonwebtokens&logoColor=191724)
 ![Topic Modeling](https://img.shields.io/badge/Topic_Modeling-9ccfd8?style=for-the-badge&logo=wikipedia&logoColor=191724)
