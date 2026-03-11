@@ -4,7 +4,7 @@
 
 ---
 <p align="center">
-  <img src="https://pageview.vercel.app/?github_user=msjahid" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=msjahid&label=Profile%20views&color=0047AB&style=plastic?" alt="msjahid" height=25px, width=160px/>
   <a href="https://github.com/msjahid/open-source-badge/">
     <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" />
   </a>
