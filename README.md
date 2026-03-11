@@ -216,15 +216,11 @@
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=msjahid&show_icons=true&count_private=true&rank_icon=github&hide_border=true&bg_color=191724&title_color=eb6f92&icon_color=9ccfd8&text_color=e0def4&border_color=26233a" alt="GitHub Stats" />
-&nbsp;
-<img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjahid&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=191724&title_color=eb6f92&text_color=e0def4&border_color=26233a" alt="Top Languages" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=msjahid&show_icons=true&count_private=true&rank_icon=github&hide_border=true&bg_color=191724&title_color=eb6f92&icon_color=9ccfd8&text_color=e0def4&border_color=26233a" />
 
-</div>
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msjahid&layout=compact&hide_border=true&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&bg_color=191724&title_color=eb6f92&text_color=e0def4&border_color=26233a" />
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=msjahid&hide_border=true&background=191724&stroke=26233a&ring=eb6f92&fire=f6c177&currStreakNum=e0def4&currStreakLabel=9ccfd8&sideNums=e0def4&sideLabels=6e6a86&dates=6e6a86" alt="GitHub Streak" />
+<img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=msjahid&hide_border=true&background=191724&stroke=26233a&ring=eb6f92&fire=f6c177&currStreakNum=e0def4&currStreakLabel=9ccfd8&sideNums=e0def4&sideLabels=6e6a86&dates=6e6a86" />
 
 </div>
 
