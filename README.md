@@ -188,11 +188,11 @@
 ---
 
 ### ⚙️ Methodologies
-![Agile](https://img.shields.io/badge/Agile-eb6f92?style=for-the-badge&logo=agile&logoColor=191724)
+![Agile](https://img.shields.io/badge/Agile-eb6f92?style=for-the-badge&logo=jira&logoColor=191724)
 ![Scrum](https://img.shields.io/badge/Scrum-9ccfd8?style=for-the-badge&logo=scrumalliance&logoColor=191724)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-f6c177?style=for-the-badge&logo=githubactions&logoColor=191724)
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-c4a7e7?style=for-the-badge&logo=python&logoColor=191724)
-![Model Deployment](https://img.shields.io/badge/Model_Deployment-eb6f92?style=for-the-badge&logo=docker&logoColor=191724)
+![Model Deployment](https://img.shields.io/badge/Model_Deployment-eb6f92?style=for-the-badge&logo=bentoml&logoColor=191724)
 ![MLOps](https://img.shields.io/badge/MLOps-9ccfd8?style=for-the-badge&logo=mlflow&logoColor=191724)
 
 <br>
