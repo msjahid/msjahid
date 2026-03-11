@@ -150,8 +150,8 @@
 
 ### ☁️ Big Data & Cloud
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-eb6f92?style=for-the-badge&logo=apachespark&logoColor=191724)
-![AWS S3](https://img.shields.io/badge/AWS_S3-9ccfd8?style=for-the-badge&logo=amazons3&logoColor=191724)
-![AWS EC2](https://img.shields.io/badge/AWS_EC2-f6c177?style=for-the-badge&logo=amazonec2&logoColor=191724)
+![AWS S3](https://img.shields.io/badge/AWS_S3-9ccfd8?style=for-the-badge&logo=cloudflare&logoColor=191724)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-f6c177?style=for-the-badge&logo=googlecloudstorage&logoColor=191724)
 ![Docker](https://img.shields.io/badge/Docker-c4a7e7?style=for-the-badge&logo=docker&logoColor=191724)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-eb6f92?style=for-the-badge&logo=kubernetes&logoColor=191724)
 ![ETL Pipelines](https://img.shields.io/badge/ETL_Pipelines-9ccfd8?style=for-the-badge&logo=apacheairflow&logoColor=191724)
