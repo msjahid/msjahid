@@ -210,7 +210,9 @@
 <!--                  GITHUB STATS                          -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-## ⚡ GitHub Stats
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">&nbsp; ⚡ GitHub Stats
+</h2>
 
 <div align="center">
 
