@@ -680,66 +680,33 @@ class JahidHasan:
 <div align="center">
 
 <p>
-  <a href="mailto:msjahid.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-eb6f92?style=for-the-badge&logo=gmail&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/msjahid/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9ccfd8?style=for-the-badge&logo=linkedin&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://kaggle.com/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-f6c177?style=for-the-badge&logo=kaggle&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://medium.com/@msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-c4a7e7?style=for-the-badge&logo=medium&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://msjahid.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-eb6f92?style=for-the-badge&logo=About.me&logoColor=191724" />
-  </a>
+  <a href="mailto:msjahid.ai@gmail.com"><img src="https://img.shields.io/badge/Gmail-eb6f92?style=for-the-badge&logo=gmail&logoColor=191724"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/msjahid/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9ccfd8?style=for-the-badge&logo=linkedin&logoColor=191724"/></a>&nbsp;
+  <a href="https://kaggle.com/msjahid" target="_blank"><img src="https://img.shields.io/badge/Kaggle-f6c177?style=for-the-badge&logo=kaggle&logoColor=191724"/></a>&nbsp;
+  <a href="https://medium.com/@msjahid" target="_blank"><img src="https://img.shields.io/badge/Medium-c4a7e7?style=for-the-badge&logo=medium&logoColor=191724"/></a>&nbsp;
+  <a href="https://msjahid.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-eb6f92?style=for-the-badge&logo=about.me&logoColor=191724"/></a>
 </p>
 
 <p>
-  <a href="https://x.com/msjahids" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-9ccfd8?style=for-the-badge&logo=x&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://stackoverflow.com/users/7288932/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-f6c177?style=for-the-badge&logo=stackoverflow&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://scholar.google.com/citations?user=hWECAEcAAAAJ" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Scholar-c4a7e7?style=for-the-badge&logo=googlescholar&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://orcid.org/0009-0001-1902-6142" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-eb6f92?style=for-the-badge&logo=orcid&logoColor=191724" />
-  </a>
+  <a href="https://x.com/msjahids" target="_blank"><img src="https://img.shields.io/badge/X_(Twitter)-9ccfd8?style=for-the-badge&logo=x&logoColor=191724"/></a>&nbsp;
+  <a href="https://stackoverflow.com/users/7288932/msjahid" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-f6c177?style=for-the-badge&logo=stackoverflow&logoColor=191724"/></a>&nbsp;
+  <a href="https://scholar.google.com/citations?user=hWECAEcAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-c4a7e7?style=for-the-badge&logo=googlescholar&logoColor=191724"/></a>&nbsp;
+  <a href="https://orcid.org/0009-0001-1902-6142" target="_blank"><img src="https://img.shields.io/badge/ORCID-eb6f92?style=for-the-badge&logo=orcid&logoColor=191724"/></a>
 </p>
 
 <p>
-  <a href="https://dev.to/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-9ccfd8?style=for-the-badge&logo=devdotto&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://discord.gg/eawXvwjy" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-f6c177?style=for-the-badge&logo=discord&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://t.me/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-c4a7e7?style=for-the-badge&logo=telegram&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://msjahid.slack.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Slack-eb6f92?style=for-the-badge&logo=slack&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://www.youtube.com/@codeoox" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-9ccfd8?style=for-the-badge&logo=youtube&logoColor=191724" />
-  </a>
+  <a href="https://dev.to/msjahid" target="_blank"><img src="https://img.shields.io/badge/Dev.to-9ccfd8?style=for-the-badge&logo=devdotto&logoColor=191724"/></a>&nbsp;
+  <a href="https://discord.gg/eawXvwjy" target="_blank"><img src="https://img.shields.io/badge/Discord-f6c177?style=for-the-badge&logo=discord&logoColor=191724"/></a>&nbsp;
+  <a href="https://t.me/msjahid" target="_blank"><img src="https://img.shields.io/badge/Telegram-c4a7e7?style=for-the-badge&logo=telegram&logoColor=191724"/></a>&nbsp;
+  <a href="https://msjahid.slack.com/" target="_blank"><img src="https://img.shields.io/badge/Slack-eb6f92?style=for-the-badge&logo=slack&logoColor=191724"/></a>&nbsp;
+  <a href="https://www.youtube.com/@codeoox" target="_blank"><img src="https://img.shields.io/badge/YouTube-9ccfd8?style=for-the-badge&logo=youtube&logoColor=191724"/></a>
 </p>
 
 <p>
-  <a href="https://msjahid.gitbooks.io/r/content/" target="_blank">
-    <img src="https://img.shields.io/badge/GitBook-f6c177?style=for-the-badge&logo=gitbook&logoColor=191724" />
-  </a>&nbsp;
-  <a href="http://asciinema.org/~msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Asciinema-c4a7e7?style=for-the-badge&logo=asciinema&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://mltool.blogspot.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-eb6f92?style=for-the-badge&logo=blogger&logoColor=191724" />
-  </a>
+  <a href="https://msjahid.gitbooks.io/r/content/" target="_blank"><img src="https://img.shields.io/badge/GitBook-f6c177?style=for-the-badge&logo=gitbook&logoColor=191724"/></a>&nbsp;
+  <a href="http://asciinema.org/~msjahid" target="_blank"><img src="https://img.shields.io/badge/Asciinema-c4a7e7?style=for-the-badge&logo=asciinema&logoColor=191724"/></a>&nbsp;
+  <a href="https://mltool.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-eb6f92?style=for-the-badge&logo=blogger&logoColor=191724"/></a>&nbsp;
+  <a href="https://msjahid.wordpress.com/" target="_blank"><img src="https://img.shields.io/badge/WordPress-9ccfd8?style=for-the-badge&logo=wordpress&logoColor=191724"/></a>
 </p>
 
 <br>
