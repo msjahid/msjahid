@@ -29,32 +29,6 @@
 
 <br>
 
-<p align="center">
-  <a href="mailto:msjahid.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-eb6f92?style=for-the-badge&logo=gmail&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://kaggle.com/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-9ccfd8?style=for-the-badge&logo=kaggle&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/msjahid/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-f6c177?style=for-the-badge&logo=linkedin&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://medium.com/@msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-c4a7e7?style=for-the-badge&logo=medium&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://msjahid.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-eb6f92?style=for-the-badge&logo=About.me&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://x.com/msjahids" target="_blank">
-    <img src="https://img.shields.io/badge/X-9ccfd8?style=for-the-badge&logo=x&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://stackoverflow.com/users/7288932/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-f6c177?style=for-the-badge&logo=stackoverflow&logoColor=191724" />
-  </a>
-</p>
-
-<br>
-
 <!-- SEPARATOR -->
 <a href="https://github.com/msjahid"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
