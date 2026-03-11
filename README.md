@@ -21,9 +21,13 @@
 <!-- SEPARATOR -->
 <a href="https://github.com/msjahid"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   ABOUT ME                             -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">&nbsp; About Me
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">&nbsp; About Me
+</h2>
 
 <p align="center">
   <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in <code>predictive analytics</code>, including <code>machine learning</code>, <code>sentiment analysis</code>, <code>statistical modeling</code>, and <code>data mining</code> techniques, to develop marketing strategies using <code>Python</code>, <code>SQL</code>, <code>Excel</code>, <code>Tableau</code> and various popular libraries such as <code>Numpy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>Seaborn</code>, and <code>Scikit Learn</code> etc. I have extensive experience working with <code>natural language processing</code>, <code>large-scale datasets</code>, <code>big data techniques</code>, <code>predictive model building</code>, and <code>machine learning web API</code> implementation.
