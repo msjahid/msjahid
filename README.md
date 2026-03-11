@@ -119,7 +119,7 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-f6c177?style=for-the-badge&logo=streamlit&logoColor=191724)
 ![Dash](https://img.shields.io/badge/Dash-c4a7e7?style=for-the-badge&logo=plotly&logoColor=191724)
 ![Bokeh](https://img.shields.io/badge/Bokeh-eb6f92?style=for-the-badge&logo=python&logoColor=191724)
-![Altair](https://img.shields.io/badge/Altair-9ccfd8?style=for-the-badge&logo=python&logoColor=191724)
+![Altair](https://img.shields.io/badge/Altair-9ccfd8?style=for-the-badge&logo=vega&logoColor=191724)
 
 ---
 
