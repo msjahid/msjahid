@@ -185,14 +185,6 @@
 
 ---
 
-### 🪟 Microsoft Power Platform
-![Power BI](https://img.shields.io/badge/Power_BI-eb6f92?style=for-the-badge&logo=powerbi&logoColor=191724)
-![Power Apps](https://img.shields.io/badge/Power_Apps-9ccfd8?style=for-the-badge&logo=powerapps&logoColor=191724)
-![Power Automate](https://img.shields.io/badge/Power_Automate-f6c177?style=for-the-badge&logo=powerautomate&logoColor=191724)
-![SharePoint](https://img.shields.io/badge/SharePoint-c4a7e7?style=for-the-badge&logo=microsoftsharepoint&logoColor=191724)
-
----
-
 ### ⚙️ Methodologies
 ![Agile](https://img.shields.io/badge/Agile-eb6f92?style=for-the-badge&logo=agile&logoColor=191724)
 ![Scrum](https://img.shields.io/badge/Scrum-9ccfd8?style=for-the-badge&logo=scrumalliance&logoColor=191724)
