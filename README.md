@@ -101,9 +101,9 @@
 ![Pandas](https://img.shields.io/badge/Pandas-eb6f92?style=for-the-badge&logo=pandas&logoColor=191724)
 ![NumPy](https://img.shields.io/badge/NumPy-9ccfd8?style=for-the-badge&logo=numpy&logoColor=191724)
 ![SciPy](https://img.shields.io/badge/SciPy-f6c177?style=for-the-badge&logo=scipy&logoColor=191724)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-c4a7e7?style=for-the-badge&logo=python&logoColor=191724)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-c4a7e7?style=for-the-badge&logo=wolfram&logoColor=191724)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-eb6f92?style=for-the-badge&logo=scikit-learn&logoColor=191724)
-![Dask](https://img.shields.io/badge/Dask-9ccfd8?style=for-the-badge&logo=python&logoColor=191724)
+![Dask](https://img.shields.io/badge/Dask-9ccfd8?style=for-the-badge&logo=dask&logoColor=191724)
 ![Polars](https://img.shields.io/badge/Polars-f6c177?style=for-the-badge&logo=polars&logoColor=191724)
 ![PySpark](https://img.shields.io/badge/PySpark-c4a7e7?style=for-the-badge&logo=apachespark&logoColor=191724)
 
