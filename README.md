@@ -296,7 +296,7 @@
 <!-- SEPARATOR -->
 <a href="https://github.com/msjahid"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&&height=60&color=eb6f92&fontColor=e0def4&reversal=true&section=footer"/>
+</div>
 
