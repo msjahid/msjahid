@@ -7,15 +7,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msjahid&label=Profile+Views&color=eb6f92&style=flat" alt="Profile Views" />
-  &nbsp;
-  <a href="https://github.com/msjahid?tab=followers">
-    <img src="https://img.shields.io/github/followers/msjahid?label=Followers&style=flat&color=9ccfd8&labelColor=26233a" alt="Followers" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/msjahid/open-source-badge/">
-    <img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=msjahid&label=Profile+Views&color=eb6f92&style=flat" alt="Profile Views"/>&nbsp;
+<a href="https://github.com/msjahid?tab=followers"><img src="https://img.shields.io/github/followers/msjahid?label=Followers&style=flat&color=9ccfd8&labelColor=26233a" alt="Followers"/></a>&nbsp;
+<a href="https://github.com/msjahid/open-source-badge/"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=102" alt="Open Source Love"/></a>
 </p>
 
 <!-- SEPARATOR -->
