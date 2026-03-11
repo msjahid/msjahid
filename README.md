@@ -178,6 +178,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-9ccfd8?style=for-the-badge&logo=github&logoColor=191724)
 ![Sublime Text](https://img.shields.io/badge/Sublime_Text-eb6f92?style=for-the-badge&logo=sublimetext&logoColor=191724)
 ![Jupyter](https://img.shields.io/badge/Jupyter-f6c177?style=for-the-badge&logo=jupyter&logoColor=191724)
+![LaTeX](https://img.shields.io/badge/LaTeX-f6c177?style=for-the-badge&logo=latex&logoColor=191724)
 ![Linux](https://img.shields.io/badge/Linux-c4a7e7?style=for-the-badge&logo=linux&logoColor=191724)
 ![VS Code](https://img.shields.io/badge/VS_Code-eb6f92?style=for-the-badge&logo=v&logoColor=191724)
 ![Postman](https://img.shields.io/badge/Postman-9ccfd8?style=for-the-badge&logo=postman&logoColor=191724)
@@ -191,7 +192,7 @@
 ![Agile](https://img.shields.io/badge/Agile-eb6f92?style=for-the-badge&logo=jira&logoColor=191724)
 ![Scrum](https://img.shields.io/badge/Scrum-9ccfd8?style=for-the-badge&logo=scrumalliance&logoColor=191724)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-f6c177?style=for-the-badge&logo=githubactions&logoColor=191724)
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-c4a7e7?style=for-the-badge&logo=python&logoColor=191724)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-c4a7e7?style=for-the-badge&logo=hive&logoColor=191724)
 ![Model Deployment](https://img.shields.io/badge/Model_Deployment-eb6f92?style=for-the-badge&logo=bentoml&logoColor=191724)
 ![MLOps](https://img.shields.io/badge/MLOps-9ccfd8?style=for-the-badge&logo=mlflow&logoColor=191724)
 
