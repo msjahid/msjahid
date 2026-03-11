@@ -165,7 +165,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-f6c177?style=for-the-badge&logo=fastapi&logoColor=191724)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-c4a7e7?style=for-the-badge&logo=postman&logoColor=191724)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-eb6f92?style=for-the-badge&logo=html5&logoColor=191724)
-![JavaScript](https://img.shields.io/badge/JavaScript-9ccfd8?style=for-the-badge&logo=javascript&logoColor=191724)
+![Express.js](https://img.shields.io/badge/JavaScript-9ccfd8?style=for-the-badge&logo=expressjs&logoColor=191724)
 ![Node.js](https://img.shields.io/badge/Node.js-f6c177?style=for-the-badge&logo=nodedotjs&logoColor=191724)
 ![Django REST](https://img.shields.io/badge/Django_REST-c4a7e7?style=for-the-badge&logo=django&logoColor=191724)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-eb6f92?style=for-the-badge&logo=python&logoColor=191724)
