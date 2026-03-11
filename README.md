@@ -20,7 +20,7 @@
 <!-- ═══════════════════════════════════════════════════════ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">&nbsp; About Me
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="28px">&nbsp; About Me
 </h2>
 
 <p align="center">
