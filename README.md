@@ -53,9 +53,9 @@
 
 ### 🤖 Machine Learning
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-eb6f92?style=for-the-badge&logo=scikit-learn&logoColor=191724)
-![XGBoost](https://img.shields.io/badge/XGBoost-9ccfd8?style=for-the-badge&logo=numpy&logoColor=191724)
+![XGBoost](https://img.shields.io/badge/XGBoost-9ccfd8?style=for-the-badge&logo=cmake&logoColor=191724)
 ![LightGBM](https://img.shields.io/badge/LightGBM-f6c177?style=for-the-badge&logo=scipy&logoColor=191724)
-![CatBoost](https://img.shields.io/badge/CatBoost-c4a7e7?style=for-the-badge&logo=yandex&logoColor=191724)
+![CatBoost](https://img.shields.io/badge/CatBoost-c4a7e7?style=for-the-badge&logo=c&logoColor=191724)
 ![Random Forest](https://img.shields.io/badge/Random_Forest-eb6f92?style=for-the-badge&logo=leaflet&logoColor=191724)
 ![Gradient Boosting](https://img.shields.io/badge/Gradient_Boosting-9ccfd8?style=for-the-badge&logo=chartdotjs&logoColor=191724)
 ![SVM](https://img.shields.io/badge/SVM-f6c177?style=for-the-badge&logo=wolfram&logoColor=191724)
