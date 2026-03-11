@@ -296,12 +296,7 @@
 <!-- SEPARATOR -->
 <a href="https://github.com/msjahid"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-<!-- FOOTER -->
-<div align="center">
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=600&size=15&pause=1000&color=6E6A86&center=true&vCenter=true&width=520&lines=Thanks+for+visiting+my+profile+🌸;Always+open+to+collaborating+%26+learning;Let's+connect+and+build+something+amazing!" alt="Footer" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
 
-
-</div>
