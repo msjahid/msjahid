@@ -27,68 +27,37 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px">&nbsp; About Me
 
-```python
-class JahidHasan:
-    name        = "Jahid Hasan"
-    title       = "Data Scientist & ML Engineer"
-    education   = "MS in Data Science @ Eastern University  |  GPA: 4.00  |  May 2026"
-    kaggle      = "Grandmaster — Top 0.1% globally  |  20+ ranked notebooks"
-    experience  = "6+ years across Ludwig Pfeiffer, TAPPWARE Solutions, Qtec Solutions"
-    location    = "Maryland, USA 📍"
-
-    focus       = ["Machine Learning", "NLP", "Deep Learning",
-                   "Production ML Systems", "Statistical Modeling"]
-
-    published   = "CLEF 2025 — Cross-lingual Subjectivity Detection"
-    writing     = "13 articles on Python & Data Viz  @  Medium"
-    package     = "R / ggplot2 theme on CRAN — 1,200+ downloads"
-    book        = "'Data Science Mastery' — 45-chapter book (in progress)"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something great 🚀")
-```
-
-<br>
-
-<div align="center">
-
-| 🎓 Degree | 🏆 Kaggle | 💼 Experience | 📍 Location | 📄 GPA |
-|:---:|:---:|:---:|:---:|:---:|
-| MS Data Science | Grandmaster | 6+ Years | Maryland, US | 4.00 |
-
-</div>
-
-<br>
-
 <p align="center">
-  As an experienced <strong>Data Scientist and ML Engineer</strong>, I specialize in building scalable ML pipelines, production-ready REST APIs, and computer vision systems. I've deployed recommendation models achieving 85%+ accuracy, automated reporting pipelines cutting generation time by 60%, and built database systems handling 100K+ records. Currently pursuing research in cross-lingual NLP and writing a comprehensive data science textbook.
-</p>
-
-<br>
-
-<p align="center">
+  <samp>As an experienced software engineer with a passion for developing cutting-edge technology solutions, I have a strong background in <code>predictive analytics</code>, including <code>machine learning</code>, <code>sentiment analysis</code>, <code>statistical modeling</code>, and <code>data mining</code> techniques, to develop marketing strategies using <code>Python</code>, <code>SQL</code>, <code>Excel</code>, <code>Tableau</code> and various popular libraries such as <code>Numpy</code>, <code>Pandas</code>, <code>Matplotlib</code>, <code>Seaborn</code>, and <code>Scikit Learn</code> etc. I have extensive experience working with <code>natural language processing</code>, <code>large-scale datasets</code>, <code>big data techniques</code>, <code>predictive model building</code>, and <code>machine learning web API</code> implementation.
+  </samp>
+  <br> <br>
   <a href="mailto:msjahid.ai@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-eb6f92?style=for-the-badge&logo=gmail&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://kaggle.com/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-9ccfd8?style=for-the-badge&logo=kaggle&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/msjahid/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-f6c177?style=for-the-badge&logo=linkedin&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://medium.com/@msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-c4a7e7?style=for-the-badge&logo=medium&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://msjahid.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-eb6f92?style=for-the-badge&logo=About.me&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://x.com/msjahids" target="_blank">
-    <img src="https://img.shields.io/badge/X-9ccfd8?style=for-the-badge&logo=x&logoColor=191724" />
-  </a>&nbsp;
-  <a href="https://stackoverflow.com/users/7288932/msjahid" target="_blank">
-    <img src="https://img.shields.io/badge/Stack_Overflow-f6c177?style=for-the-badge&logo=stackoverflow&logoColor=191724" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  
+  <a href="https://kaggle.com/msjahid" target="_blank">
+    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" target="_blank" alt="kaggle" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/msjahid/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank" alt="LinkedIn" />
+  </a>
+  
+  <a href="https://medium.com/@msjahid" target="_blank">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/" target="_blank" alt="Medium" /> 
+  </a>
+  
+  <a href="https://msjahid.github.io/" target="_blank">
+ <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" alt="msjahid" /> 
+  </a>
+
+  <a href="https:/x.com/msjahid" target="_blank">
+ <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank" alt="msjahid" /> 
+  </a>
+
+  <a href="https://stackoverflow.com/users/7288932/msjahid" target="_blank">
+ <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank" alt="msjahid" /> 
+  </a>
 
 <br>
 
