@@ -238,6 +238,8 @@
 
 ### 📍 Pinned Repositories
 
+<h2 align="center">📍 Pinned Repositories</h3>
+
 <div align="center">
 
 <a href="https://github.com/msjahid/Data-Science-Projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=msjahid&repo=Data-Science-Projects&bg_color=191724&title_color=eb6f92&text_color=e0def4&icon_color=9ccfd8&border_color=26233a&border_radius=10"/></a>&nbsp;
